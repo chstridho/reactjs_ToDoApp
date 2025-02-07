@@ -1,0 +1,16 @@
+body{
+    background-image: linear-gradient(to right, rgb(13,36,50), rgb(55,82,109), rgb(103, 104, 171), rgb(172,129,136));
+}
+
+.container {
+    max-width: 5px; /* Ubah nilai ini untuk memperbesar atau memperkecil */
+    margin: 150px auto;
+    background: rgb(255, 255, 255);
+    border-radius: 15px;
+    padding: 20px 0px;
+}
+
+.done{
+    color: green;
+    text-decoration: line-through black;
+}
